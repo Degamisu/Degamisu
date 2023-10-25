@@ -14,10 +14,6 @@ Degamisu is a tech company specializing in old electronics, game creation, and R
 
 - **Community Engagement**: Join us in discussions about retro gaming, programming, and more.
 
-## Getting Started
-
-If you're new to ROM hacking, check out our beginner-friendly tutorials and tools in the [Tutorials](tutorials/) directory.
-
 ## Contact Us
 
 - Email: degamisu@gmail.com
