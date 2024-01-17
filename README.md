@@ -1,5 +1,5 @@
-
-
+This account is maintained as one person. Named `Emi Yamashita`
+---
 # 出がミス
 
 当社に関するあらゆる情報源であるデガミスの公式リポジトリへようこそ。
