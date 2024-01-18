@@ -1,7 +1,7 @@
 This account is maintained as one person. Named `Emi Yamashita`
 ---
 # Badges
-![GitHub language count](https://img.shields.io/github/languages/count/:user/:Analog-Signal-Processor)
+![GitHub followers](https://img.shields.io/github/followers/Degamisu)
 ---
 # 出がミス
 
