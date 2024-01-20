@@ -1,8 +1,13 @@
 This account is maintained as one person. Named `Emi Yamashita`
+English Translation is near the bottom
+
 ---
+
 # Badges
 ![GitHub followers](https://img.shields.io/github/followers/Degamisu)
+
 ---
+
 # 出がミス
 
 当社に関するあらゆる情報源であるデガミスの公式リポジトリへようこそ。
