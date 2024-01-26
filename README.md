@@ -8,6 +8,19 @@ English Translation is near the bottom
 
 ---
 
+# Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=haskell,python,html,wasm,c,cpp,cs,v,tensorflow,githubactions)](https://skillicons.dev)
+
+# Real Life Languages:
+
+ - Japanese (fluent, primary)
+ - English  (fluent)
+ - Chinese (pseudo fluent)
+ - Hindi (learning)
+ - Arabic (learning)
+
+---
+
 # 出がミス
 
 当社に関するあらゆる情報源であるデガミスの公式リポジトリへようこそ。
