@@ -14,10 +14,12 @@ English Translation is near the bottom
 # Real Life Languages:
 
  - Japanese (fluent, primary)
- - English  (fluent)
+ - English  (fluent, secondary*)
  - Chinese (pseudo fluent)
  - Hindi (learning)
  - Arabic (learning)
+
+* English will be used in my comments, commits, code, and other assortments
 
 ---
 
