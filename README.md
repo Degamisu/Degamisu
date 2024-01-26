@@ -4,12 +4,22 @@ English Translation is near the bottom
 ---
 
 # Badges
-![GitHub followers](https://img.shields.io/github/followers/Degamisu)
+![GitHub followers](https://img.shields.io/github/followers/Degamisu) 
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+
+![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 
 ---
 
 # Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=haskell,python,html,wasm,c,cpp,cs,v,tensorflow,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,python,html,wasm,c,cpp,cs,v,tensorflow,githubactions,linux)](https://skillicons.dev)
 
 # Real Life Languages:
 
