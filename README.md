@@ -21,7 +21,8 @@ English Translation is near the bottom
 ---
 
 # Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=haskell,python,html,wasm,c,cpp,cs,v,tensorflow,githubactions,linux)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Degamisu)](https://github.com/anuraghazra/github-readme-stats)
 
 # Real Life Languages:
 
