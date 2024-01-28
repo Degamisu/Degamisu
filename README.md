@@ -4,6 +4,8 @@ English Translation is near the bottom
 ---
 
 # Badges
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Degamisu&show_icons=true&theme=radical)
+
 ![GitHub followers](https://img.shields.io/github/followers/Degamisu) 
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
