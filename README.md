@@ -3,8 +3,20 @@ English Translation is near the bottom
 
 ---
 
+![profile count](https://komarev.com/ghpvc/?username=degamisu&color=green)&nbsp;
+
+<p align="left"> <a
+
+
+<p align="left">
+
+  [![OS:Ubuntu](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=ubuntu)](https://archlinux.org)
+
+  
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+
 # Badges
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Degamisu&show_icons=true&theme=radical)
+![Degamisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Degamisu&show_icons=true&theme=radical)
 
 ![GitHub followers](https://img.shields.io/github/followers/Degamisu) 
 
