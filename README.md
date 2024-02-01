@@ -1,22 +1,28 @@
+<p align="center"
+
 This account is maintained as one person. Named `Emi Yamashita`
-English Translation is near the bottom
+</p>
 
 ---
 
 ![profile count](https://komarev.com/ghpvc/?username=degamisu&color=green)&nbsp;
 
-<p align="left"> <a
-
-
 <p align="left">
 
-  [![OS:Ubuntu](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=ubuntu)](https://archlinux.org)
+  [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat-square&logo=ubuntu)](https://archlinux.org)
 
   
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
 # Badges
+
+<p align="center"
+  
 ![Degamisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Degamisu&show_icons=true&theme=radical)
+
+</p>
+
+---
 
 ![GitHub followers](https://img.shields.io/github/followers/Degamisu) 
 
