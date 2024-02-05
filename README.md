@@ -8,8 +8,9 @@ This account is maintained as one person. Named `Emi Yamashita`
 ---
 
 ![profile count](https://komarev.com/ghpvc/?username=degamisu&color=green)&nbsp;
+![GitHub watchers](https://img.shields.io/github/watchers/Degamisu/Degamisu)
 
- [![HitCount](https://hits.dwyl.com/Degamisu/Degamisu.svg?style=flat-square)](http://hits.dwyl.com/Degamisu/Degamisu)
+---
 
 <p align="left">
 
