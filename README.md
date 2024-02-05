@@ -21,6 +21,7 @@ This account is maintained as one person. Named `Emi Yamashita`
 <p align="center"
   
 ![Degamisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Degamisu&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Degamisu)](https://git.io/streak-stats)
 
 </p>
 
